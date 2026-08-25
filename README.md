@@ -30,7 +30,7 @@ These quotes are selected to reflect themes such as consistency, growth, resilie
 3. Click **New Quote** to generate a quote.
 
 ## Learning Outcomes
-- JavaScript DOM manipulation and event handling
+- JavaScript DOM manipulation and event handling.
 - Applying UI/UX principles for intuitive interfaces
 - Using CSS animations and visual effects responsibly
 - Structuring clean, maintainable front-end projects
